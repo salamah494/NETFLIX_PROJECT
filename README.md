@@ -3,5 +3,5 @@ The netflix project is about a netflix viewing history which is a collection of 
 It is a beginner project,which we only did a shallow analysis.
 
 Project Overview
-We imported libraries,uploaded data 
+We imported libraries(pandas and numpy), uploaded data 
 Data cleaning,checked for missing values.
